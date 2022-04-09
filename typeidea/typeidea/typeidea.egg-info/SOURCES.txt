@@ -1,0 +1,12 @@
+manage.py
+setup.py
+typeidea/settings/__init__.py
+typeidea/settings/base.py
+typeidea/settings/develop.py
+typeidea/settings/product.py
+typeidea/typeidea.egg-info/PKG-INFO
+typeidea/typeidea.egg-info/SOURCES.txt
+typeidea/typeidea.egg-info/dependency_links.txt
+typeidea/typeidea.egg-info/entry_points.txt
+typeidea/typeidea.egg-info/requires.txt
+typeidea/typeidea.egg-info/top_level.txt
